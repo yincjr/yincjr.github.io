@@ -1,7 +1,6 @@
 # Chapter 1: Linked Lists
 ## 1. Singly Linked List
 
-'''
 > Linked List and List Node Definition
 
     // List.h
@@ -53,4 +52,3 @@
   
 <code> 
 </code>
-'''
