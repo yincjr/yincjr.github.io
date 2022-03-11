@@ -25,7 +25,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 - Data Structure
-  [Linked List](https://github.com/yincjr/yincjr.github.io/blob/e2a9ebd2d20d84fa79cb6311fb29ce26fe9452cd/Linked-List.md) 
+  [Linked List](https://yincjr.github.io/yincjr-ds-linkedlist/) 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
