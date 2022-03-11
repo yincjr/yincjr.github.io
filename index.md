@@ -15,11 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-- Data Structure
-  - [Linked List](https://github.com/yincjr/yincjr.github.io/blob/e2a9ebd2d20d84fa79cb6311fb29ce26fe9452cd/Linked-List.md)
-
 1. Numbered
 2. List
 
@@ -27,6 +22,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+- Bulleted
+- List
+- Data Structure
+  [Linked List](https://github.com/yincjr/yincjr.github.io/blob/e2a9ebd2d20d84fa79cb6311fb29ce26fe9452cd/Linked-List.md) 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
