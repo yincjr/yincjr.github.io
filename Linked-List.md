@@ -1,7 +1,8 @@
 # Chapter 1: Linked Lists
 ## 1. Singly Linked List
 
-<p> Linked List and List Node Definition </p>
+'''
+> Linked List and List Node Definition
 
 <code>
   // List.h
@@ -31,7 +32,7 @@
   }
 </code>
   
-<p> Methods for Linked Lists </p>
+> Methods for Linked Lists
   1. Count
   2. Print
   3. Search
@@ -53,3 +54,4 @@
   
 <code> 
 </code>
+'''
