@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
-title: GitL
-description: Learning Space for Computer Science Undergraduates
+layout: page
+title: "Linked Lists"
+permalink: https://yincjr.github.io/yincjr-ds-linkedlist/linked-list/
