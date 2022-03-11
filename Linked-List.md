@@ -4,33 +4,32 @@
 '''
 > Linked List and List Node Definition
 
-<code>
-  // List.h
-  #include <string>
-  using namespace std;
+    // List.h
+    #include <string>
+    using namespace std;
   
-  class ListNode 
-  {
-    public:
-      ListNode(int);
-      ListNode(int, ListNode *);
-      ListNode *get_Next() { return next; }
+    class ListNode 
+    {
+        public:
+            ListNode(int);
+            ListNode(int, ListNode *);
+            ListNode *get_Next() { return next; }
     
-    private:
-      int data;
-      ListNode *next;
-  }
+        private:
+            int data;
+            ListNode *next;
+    }
   
-  class List
-  {
-    public:
-      List(String);
-      List();
-    private:
-      ListNode *first;
-      String name;
-  }
-</code>
+    class List
+    {
+        public:
+            List(String);
+            List();
+      private:
+          ListNode *first;
+          String name;
+    }
+
   
 > Methods for Linked Lists
   1. Count
@@ -39,18 +38,18 @@
   4. Insert Node
   5. Delete Node
   
-<code> 
-  int List::Count()
-  {
-    int result = 0;
-    ListNode *p = first;
-    while (p != null)
+
+    int List::Count()
     {
-      result++;
-      p = p->getNext();
+        int result = 0;
+        ListNode *p = first;
+        while (p != null)
+        {
+            result++;
+            p = p->getNext();
+        }
     }
-  }
-</code>
+
   
 <code> 
 </code>
